@@ -3,14 +3,14 @@ Python3.6
 ## command
 `python python3_main.py [mode] [songlist_id] [target_dir]`
 
-## mode=song
+### mode=song
 `python python3_main.py song d:\xuzikuan12\music 27965271`
 
-## mode=playlist
+### mode=playlist
 `python python3_main.py playlist d:\xuzikuan12\music 2313767472`
 
-## mode=mv
+### mode=mv
 `python python3_main.py mv d:\xuzikuan12\music\mv 5402213  240`
 
-## mode=test
+### mode=test
 `python python3_main.py test . 1`
