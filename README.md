@@ -1,7 +1,7 @@
 # NeteaseCloudMusic
 Python3.6
 ## command
-`python python3_main.py [mode] [songlist_id] [target_dir]`
+`python python3_main.py [mode] [target_dir] [songlist_id]`
 
 ### mode=song
 `python python3_main.py song d:\xuzikuan12\music 27965271`
